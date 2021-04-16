@@ -1,0 +1,325 @@
+@media(max-width:1200px){
+    .menu-list li a {
+        font-size: 15px;
+    }
+    .menu-list li {
+        padding: 6px 15px !important;
+    }
+    .hero-section h2 {
+        font-size: 40px;
+    }
+    .hero-contant p {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+    #hero-btn {
+        margin-top: 10px;
+    }
+    .hder-lft::after {
+	right: -11px;
+}
+.crd-experienc span {
+	font-size: 44px;
+	position: absolute;
+	top: 13%;
+	left: 74%;
+}
+.crd-experienc p {
+	font-size: 15px;
+}
+.crd-experienc h1 {
+	font-size: 32px;
+}
+.online-part h2 {
+	font-size: 16px;
+	padding: 0;
+}
+.online-part p {
+	font-size: 12px;
+}
+.engineer-poggress h1 {
+	width: 50%;
+	font-size: 21px;
+}
+.engineer-poggress {
+	padding-top: 0 !important;
+}
+.engineer-poggress h5 {
+	font-size: 13px;
+	margin-left: 46px;
+}
+.engineer-poggress h5::before {
+	left: -9%;
+	top: 8px;
+	width: 33px;
+}
+.engineer-poggress p {
+	font-size: 11px;
+	padding-bottom: 13px;
+}
+img {
+	max-width: 78% !important;
+}
+.contact-form {
+	top: -19%;
+	left: -36%;
+	width: 488px;
+	padding: 43px 10px !important;
+}
+.contact-form h2 {
+	font-size: 24px;
+	padding: 10px !important;
+}
+.contact-form p {
+	font-size: 12px;
+}
+.c-form-items {
+	height: 50px;
+}
+.amar-photo img {
+	width: 67%;
+	height: 73%;
+}
+.contact-form {
+	width: 384px;
+}
+.c-form-items {
+	width: 276px;
+}
+.admin-part p {
+	margin-left: -3px;
+}
+.teach-contant h3 {
+	font-size: 17px;
+	width: 80%;
+}
+img {
+	max-width: 100% !important;
+}
+#hero-btn {
+	padding: 10px !important;
+}
+}
+@media(max-width:1100px){
+    .project-section::before {
+        top: 17%;
+        left: 6%;
+        width: 4px;
+        height: 54px;
+    }
+    .project-section h1 {
+        font-size: 35px;
+    }
+    .testimonial h1 {
+        font-size: 26px;
+    }
+    .testimonial h6::before {
+        width: 34px;
+        height: 2px;
+        top: 134%;
+        left: 46%;
+    }
+    .dubble {
+        font-size: 49px;
+        right: 72px;
+    }
+}
+@media(max-width:992px){
+    .menu-list li ul {
+        top: 113%;
+        left: 114px;
+    }
+    #mynavber {
+        margin-left: 77%;
+        margin-top: -2%;
+    }
+    .header-top {
+        padding: 0;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .schers-icon {
+        position: absolute;
+        top: -50%;
+        right: -4%;
+    }
+    .schers-icon span {
+        opacity: 0;
+    }
+    .experience-contant h1 {
+        padding-top: 0px;
+        width: 100%;
+    }
+    .experience-contant p {
+        padding: 0px 0;
+        margin-bottom: 0 !important;
+    }
+    .experience-contant .ex-btn {
+        margin-top: 15px;
+    }
+    .carousel-item.carsol-hover.hero-section.active {
+        height: 400px !important;
+    }
+    .crd-experienc h1 {
+        font-size: 26px;
+    }
+    .crd-experienc p {
+        font-size: 10px;
+    }
+    .crd-experienc h1 {
+        font-size: 22px;
+    }
+    .online-part h2 {
+        font-size: 15px;
+    }
+    .online-part span {
+        font-size: 40px;
+    }
+    .online-part p {
+        font-size: 13px;
+    }
+    .met-section {
+        padding: 67px 0 186px 0;
+    }
+    .tem-part h1 {
+        font-size: 32px;
+    }
+    .tem-part p::before {
+        left: 32%;
+    }
+    .tem-part p::after {
+        right: 32%;
+    }
+    .crd-experienc span {
+        font-size: 31px;
+    }
+    .engineer-text h4 {
+        font-size: 16px;
+    }
+    .engineer-text h6 {
+        font-size: 17px;
+        margin-top: -20px;
+    }
+    .engineer-text a {
+        margin-right: -6px;
+        font-size: 13px;
+        margin-top: -1px;
+    }
+    .engineer-poggress h1 {
+        width: 72%;
+        padding: 0;
+        font-size: 21px;
+    }
+    img {
+        max-width: 94% !important;
+    }
+    .mytow {
+        margin-bottom: -19px;
+        margin-top: 0px;
+    }
+    .project-paragraph p {
+        font-size: 12px;
+    }
+    .project-section::before {
+        top: 17%;
+        left: 2%;
+        width: 3px;
+        height: 49px;
+    }
+    .project-section h1 {
+        font-size: 24px;
+    }
+    .teach-contant h3 {
+        font-size: 12px;
+        width: 100%;
+    }
+    .admin-part p {
+        font-size: 10px;
+    }
+    .admin-part span {
+        line-height: 30px;
+    }
+    #hero-btn {
+        margin-top: -4px;
+        padding: 7px !important;
+        width: 104px;
+        display: inline-block;
+        margin-left: -19px;
+    }
+}
+@media(max-width:891px){
+    .hero-section h2 {
+        width: 500px !important;
+    }
+    .crd-experienc {
+        margin-top: 50px;
+    }
+    .crd-experienc p {
+        font-size: 19px;
+    }
+    .tem-part p::before {
+        left: 33%;
+        width: 33px;
+    }
+    .tem-part p::after {
+        right: 33%;
+        width: 33px;
+    }
+    .online-part h2 {
+        font-size: 11px;
+    }
+    .online-part p {
+        font-size: 9px;
+    }
+    .contact-form {
+        width: 296px;
+    }
+    .c-form-items {
+        width: 212px;
+    }
+    .c-form-items {
+        width: 211px;
+        height: 36px;
+    }
+    .contact-form h2 {
+        font-size: 16px;
+        padding: 10px 0 !important;
+    }
+}
+@media(max-width:767px){
+    .schers-icon a {
+        margin-left: 47%;
+    }
+    .tem-part p::before {
+        left: 30%;
+        width: 33px;
+    }
+    .tem-part p::after {
+        right: 30%;
+        width: 33px;
+    }
+    .online-part h2 {
+        font-size: 11px;
+    }
+    .online-part p {
+        font-size: 8px;
+    }
+    .contact-form {
+        width: 100%;
+        margin-left: 35%;
+    }
+    .amar-photo img {
+        width: 93%;
+        height: 77%;
+    }
+    .c-form-items {
+        width: 358px;
+        height: 36px;
+    }
+    .carousel-control-next {
+        margin-top: 57%;
+    }
+    .carousel-control-prev {
+        margin-top: 57%;
+    }
+}
